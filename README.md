@@ -6,6 +6,8 @@ Step 2: Training is done using google colab with tesla k80 gpu using the train.p
 
 Step 3: Best weight from trained model is downloaded and used in jupyter notebooks for detecting helmets
 
+We use Pytorch for training and detecting the model.
+
 The model isn't fully developed, it doesn't have accuracy, any suggestions and improvements towards the model are welcomed.
 
 Dataset Collection:
